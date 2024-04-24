@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259001107389",
+    "project_id": "mapmap-7b6fd",
+    "storage_bucket": "mapmap-7b6fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259001107389:android:6b7d7c17e3f358cd4fc8d4",
+        "android_client_info": {
+          "package_name": "com.example.velbis_assignment7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh3IFLxDICjDt6W-SlL8kUZ9ZURxrQW9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
